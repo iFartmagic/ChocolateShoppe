@@ -285,7 +285,6 @@
 	"Wintermelon Sweets",
 	"Fruit Sensation Korbat Cake",
 	"Mint Chocolate Krawk Coin",
-	"Gummy Fish",
 	"Orange Chocolate Grarrl",
 	"Pink Lenny Lollipop",
 	"Swirly Chocolate Mynci",
@@ -301,6 +300,10 @@
 	"Sun Lollipop",
 	"White Chocolate Buzz",
 	"White Chocolate Krawk Coin"
+	],
+
+"Pink": [
+	"Gummy Fish"
 	]
 	}
 	
